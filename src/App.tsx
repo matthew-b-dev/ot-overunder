@@ -263,6 +263,14 @@ const App = () => {
           </Tooltip>
         )}
         <div className="bg-[#007a31] bg-[#8a0007]"></div>
+        <a
+          className="absolute left-4 bottom-4 text-yellow-500 underline z-100"
+          href="https://github.com/matthew-b-dev/ot-overunder"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>
       </div>
     </>
   );

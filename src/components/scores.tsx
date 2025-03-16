@@ -45,10 +45,10 @@ const Scores = ({
             </div>
           </div>
         </div>
-        <div className="flex-1 flex">
+        <div className="flex-1 flex h-0">
           <div className="text-left flex">
-            <div className="pr-3 pt-1">Highscore</div>
-            <div className="pr-3 text-2xl font-black pb-2">
+            <div className="pr-3 pt-2">Highscore</div>
+            <div className="pr-3 text-2xl font-black pb-2 pt-1">
               {scores.highscore}
             </div>
           </div>

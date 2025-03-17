@@ -748,31 +748,24 @@ export const DATA = [
     views: 457182,
   },
   {
-    title: 'World of Warcraft: Battle for Azeroth|OT| War Mode Enabled!',
+    title: 'World of Warcraft: Battle for Azeroth',
     threads: [
       {
         title: 'World of Warcraft: Battle for Azeroth|OT| War Mode Enabled!',
         comments: 15106,
         views: 924519,
       },
-    ],
-    comments: 15106,
-    views: 924519,
-  },
-  {
-    title: 'World of Warcraft: Battle for Azeroth',
-    threads: [
       {
         title: 'World of Warcraft: Battle for Azeroth |OT2| Bless Your Heart',
         comments: 13236,
         views: 581017,
       },
     ],
-    comments: 13236,
-    views: 581017,
+    comments: 28342,
+    views: 1505536,
   },
   {
-    title: 'World of Warcraft',
+    title: 'World of Warcraft: Legion',
     threads: [
       {
         title: 'World of Warcraft |OT| Calm Before the Storm',

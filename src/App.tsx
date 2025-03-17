@@ -188,6 +188,7 @@ const App = () => {
                     <span className="animated-b-shadow"></span>
                     <span className="animated-b-edge"></span>
                     <span className="animated-b-front">+ More</span>
+                    <span className="hidden bg-[#007a31] bg-[#8a0007]"></span>
                   </button>
                   <button
                     className="animated-b animated-b-red"
@@ -262,15 +263,6 @@ const App = () => {
             )}
           </Tooltip>
         )}
-        <div className="bg-[#007a31] bg-[#8a0007]"></div>
-        <a
-          className="absolute left-4 bottom-4 text-yellow-500 underline z-100"
-          href="https://github.com/matthew-b-dev/ot-overunder"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Github
-        </a>
       </div>
     </>
   );

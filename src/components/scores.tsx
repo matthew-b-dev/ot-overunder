@@ -29,7 +29,7 @@ const Scores = ({
           </div>
         </div>
       </header>
-      <header className="absolute right-0 z-50 h-full flex flex-col md:hidden">
+      <header className="absolute right-0 z-50 pointer-events-none h-full flex flex-col md:hidden">
         <div className="flex-1 flex">
           <div className="text-left flex flex-1 flex-col justify-end items-end">
             <div className="flex pb-1">

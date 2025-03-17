@@ -1,7 +1,8 @@
 # OT Over/Under
 ### Live Site: https://matthew-b-dev.github.io/ot-overunder/
 ### Demo GIF:
-![ezgif-5eac891b7fd6e2](https://github.com/user-attachments/assets/370c83dd-8794-4e8e-a213-cc32b506a65d)
+
+![demo](https://github.com/user-attachments/assets/2d03f0ff-f99d-464f-9883-fe8c3df3e0e9)
 
 - A game in the same vein as `moreorless`, except themed for "Original Threads" in enthusiast gaming forums.
 - Player is given information about one Original Thread and its comment count

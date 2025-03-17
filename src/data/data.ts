@@ -4436,34 +4436,20 @@ export const DATA = [
         comments: 707,
         views: 59345,
       },
-    ],
-    comments: 707,
-    views: 59345,
-  },
-  {
-    title: 'Star Citizen Anniversary Free Fly 2018',
-    threads: [
       {
         title:
           'Star Citizen Anniversary Free Fly 2018 |OT| Space Planes, Trains, and All-Terrain Vehicles',
         comments: 152,
         views: 18422,
       },
-    ],
-    comments: 152,
-    views: 18422,
-  },
-  {
-    title: 'Star Citizen Alpha 3.9 OT',
-    threads: [
       {
         title: 'Star Citizen Alpha 3.9 OT | Grand Aspirations',
         comments: 521,
         views: 57454,
       },
     ],
-    comments: 521,
-    views: 57454,
+    comments: 1380,
+    views: 135221,
   },
   {
     title: 'Spyro Reignited Trilogy Switch and PC',
